@@ -1,5 +1,6 @@
 ### Olá, me chamo Nathalia Caldas 😃
 
-- 👩  Em migrção de carreira
+- 👩  Em migração de carreira
 - 💜  Atualmente estudando Backend na {Reprograma}
-- 📧  Contate-me no nacaldas@hotmail.com
+- 📧  Entre em contato comigo no nacaldas@hotmail.com
+ 
